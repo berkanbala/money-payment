@@ -21,7 +21,7 @@
     "id": 4,
     "title": "Araba",
     "price": 40000,
-    "image": "https://cdn-nq.toyzzshop.com/product/600x600/0f06b_Metal_Cek_Birak_Murat_131_Araba.jpg"
+    "image": "https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg"
   },
   {
     "id": 5,
@@ -38,7 +38,7 @@
   {
     "id": 7,
     "title": "100 TL",
-    "price": 12.40,
+    "price": 12.4,
     "image": "https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
   },
   {
@@ -49,26 +49,8 @@
   },
   {
     "id": 9,
-    "title": "Çanta",
-    "price": 1500000,
-    "image": "https://www.flowerayakkabi.com/Uploads/UrunResimleri/buyuk/beyaz-deri-sirt-cantasi-2a20.jpg"
-  },
-  {
-    "id": 10,
-    "title": "Elmas",
-    "price": 157878777,
-    "image": "https://lh3.googleusercontent.com/proxy/kYXnJp3Y4l3F0LzGR-RmZpuB_mDzYE76hH9sHH7Z49yJmE419VLne-7yMX7cDQ4BOcPqGgkqkvuLZiiDy-7HP2R4WNIclWhId9pT"
-  },
-  {
-    "id": 11,
     "title": "Mona Lisa",
     "price": 2000000000,
     "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
-  },
-  {
-    "id": 12,
-    "title": "Ekmek",
-    "price": 0.1,
-    "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2.jpg"
   }
 ]
